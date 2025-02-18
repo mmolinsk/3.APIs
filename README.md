@@ -4,3 +4,7 @@
 My edited output:
 
 ![Screenshot 2025-02-13 204712](https://github.com/user-attachments/assets/bd444ffb-f6f8-464b-9c45-c8d607559af9)
+
+
+API used:
+https://jsonplaceholder.typicode.com/
